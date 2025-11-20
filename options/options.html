@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    h1 {
+      color: #333;
+    }
+    .form-group {
+      margin-bottom: 20px;
+    }
+    label {
+      display: block;
+      margin-bottom: 5px;
+      font-weight: bold;
+    }
+    textarea {
+      width: 100%;
+      height: 300px;
+      padding: 10px;
+      box-sizing: border-box;
+      font-family: monospace;
+      font-size: 14px;
+    }
+    .buttons {
+      margin-top: 20px;
+    }
+    button {
+      background-color: #4CAF50;
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      cursor: pointer;
+      margin-right: 10px;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+    #resetButton {
+      background-color: #f44336;
+    }
+    #resetButton:hover {
+      background-color: #d32f2f;
+    }
+    #status {
+      margin-top: 20px;
+      padding: 10px;
+      border-radius: 4px;
+    }
+    .error {
+      background-color: #ffebee;
+      color: #c62828;
+    }
+    .success {
+      background-color: #e8f5e9;
+      color: #2e7d32;
+    }
+  </style>
+</head>
+<body>
+  <h1>Sign Video Builder Options</h1>
+  
+  <div class="form-group">
+    <label for="wordmapEditor">Word Map JSON:</label>
+    <p style="font-size: 12px; color: #666; margin: 5px 0;">
+      <strong>Tip:</strong> Use <code>"_fallback"</code> key to specify a default video for missing words. 
+      Example: <code>"_fallback": "https://example.com/sorry.mp4"</code>
+    </p>
+    <textarea id="wordmapEditor" placeholder='{"_fallback": "https://example.com/sorry.mp4", "hello": "https://example.com/hello.mp4"}'></textarea>
+  </div>
+  
+  <div class="buttons">
+    <button id="saveButton">Save</button>
+    <button id="resetButton">Reset to Defaults</button>
+  </div>
+  
+  <div id="status"></div>
+  
+  <script src="options.js"></script>
+</body>
+</html>
