@@ -1,0 +1,460 @@
+{
+Fetching: hello
+  "hello": "https://media.signbsl.com/videos/asl/startasl/mp4/hello.mp4"
+,
+Fetching: hi
+  "hi": "https://media.signbsl.com/videos/asl/startasl/mp4/hello.mp4"
+,
+Fetching: goodbye
+  "goodbye": "https://media.signbsl.com/videos/asl/startasl/mp4/bye.mp4"
+,
+Fetching: bye
+  "bye": "https://media.signbsl.com/videos/asl/startasl/mp4/bye.mp4"
+,
+Fetching: thanks
+  "thanks": "https://media.signbsl.com/videos/asl/startasl/mp4/thankyou.mp4"
+,
+Fetching: thank
+  "thank": "https://media.signbsl.com/videos/asl/aslsearch/mp4/thank.mp4"
+,
+Fetching: please
+  "please": "https://media.signbsl.com/videos/asl/startasl/mp4/please.mp4"
+,
+Fetching: sorry
+  "sorry": "https://media.signbsl.com/videos/asl/startasl/mp4/sorry.mp4"
+,
+Fetching: yes
+  "yes": "https://media.signbsl.com/videos/asl/startasl/mp4/yes.mp4"
+,
+Fetching: no
+  "no": "https://media.signbsl.com/videos/asl/startasl/mp4/no.mp4"
+,
+Fetching: help
+  "help": "https://media.signbsl.com/videos/asl/startasl/mp4/help.mp4"
+,
+Fetching: need
+  "need": "https://media.signbsl.com/videos/asl/startasl/mp4/need.mp4"
+,
+Fetching: want
+  "want": "https://media.signbsl.com/videos/asl/startasl/mp4/want.mp4"
+,
+Fetching: like
+  "like": "https://media.signbsl.com/videos/asl/startasl/mp4/like.mp4"
+,
+Fetching: love
+  "love": "https://media.signbsl.com/videos/asl/startasl/mp4/love.mp4"
+,
+Fetching: good
+  "good": "https://media.signbsl.com/videos/asl/startasl/mp4/good.mp4"
+,
+Fetching: bad
+  "bad": "https://media.signbsl.com/videos/asl/startasl/mp4/bad.mp4"
+,
+Fetching: happy
+  "happy": "https://media.signbsl.com/videos/asl/startasl/mp4/happy.mp4"
+,
+Fetching: sad
+  "sad": "https://media.signbsl.com/videos/asl/startasl/mp4/sad.mp4"
+,
+Fetching: angry
+  "angry": "https://media.signbsl.com/videos/asl/startasl/mp4/angry.mp4"
+,
+Fetching: friend
+  "friend": "https://media.signbsl.com/videos/asl/startasl/mp4/friend.mp4"
+,
+Fetching: family
+  "family": "https://media.signbsl.com/videos/asl/startasl/mp4/family.mp4"
+,
+Fetching: mother
+  "mother": "https://media.signbsl.com/videos/asl/startasl/mp4/mother.mp4"
+,
+Fetching: mom
+  "mom": "https://media.signbsl.com/videos/asl/startasl/mp4/mother.mp4"
+,
+Fetching: father
+  "father": "https://media.signbsl.com/videos/asl/startasl/mp4/father.mp4"
+,
+Fetching: dad
+  "dad": "https://media.signbsl.com/videos/asl/aslsignbank/mp4/FATHER-764.mp4"
+,
+Fetching: brother
+  "brother": "https://media.signbsl.com/videos/asl/startasl/mp4/brother.mp4"
+,
+Fetching: sister
+  "sister": "https://media.signbsl.com/videos/asl/startasl/mp4/sister.mp4"
+,
+Fetching: child
+  "child": "https://media.signbsl.com/videos/asl/startasl/mp4/children.mp4"
+,
+Fetching: baby
+  "baby": "https://media.signbsl.com/videos/asl/startasl/mp4/baby.mp4"
+,
+Fetching: man
+  "man": "https://media.signbsl.com/videos/asl/startasl/mp4/man.mp4"
+,
+Fetching: woman
+  "woman": "https://media.signbsl.com/videos/asl/startasl/mp4/woman.mp4"
+,
+Fetching: person
+  "person": "https://media.signbsl.com/videos/asl/aslsignbank/mp4/PERSON-888.mp4"
+,
+Fetching: people
+  "people": "https://media.signbsl.com/videos/asl/aslsignbank/mp4/PEOPLE-570.mp4"
+,
+Fetching: home
+  "home": "https://media.signbsl.com/videos/asl/startasl/mp4/home.mp4"
+,
+Fetching: house
+  "house": "https://media.signbsl.com/videos/asl/startasl/mp4/house.mp4"
+,
+Fetching: school
+  "school": "https://media.signbsl.com/videos/asl/startasl/mp4/school.mp4"
+,
+Fetching: work
+  "work": "https://media.signbsl.com/videos/asl/startasl/mp4/work.mp4"
+,
+Fetching: eat
+  "eat": "https://media.signbsl.com/videos/asl/startasl/mp4/eat.mp4"
+,
+Fetching: drink
+  "drink": "https://media.signbsl.com/videos/asl/startasl/mp4/drink.mp4"
+,
+Fetching: food
+  "food": "https://media.signbsl.com/videos/asl/startasl/mp4/food.mp4"
+,
+Fetching: water
+  "water": "https://media.signbsl.com/videos/asl/startasl/mp4/water.mp4"
+,
+Fetching: milk
+  "milk": "https://media.signbsl.com/videos/asl/startasl/mp4/milk.mp4"
+,
+Fetching: coffee
+  "coffee": "https://media.signbsl.com/videos/asl/startasl/mp4/coffee.mp4"
+,
+Fetching: tea
+  "tea": "https://media.signbsl.com/videos/asl/startasl/mp4/tea.mp4"
+,
+Fetching: breakfast
+  "breakfast": "https://media.signbsl.com/videos/asl/startasl/mp4/breakfast.mp4"
+,
+Fetching: lunch
+  "lunch": "https://media.signbsl.com/videos/asl/startasl/mp4/lunch.mp4"
+,
+Fetching: dinner
+  "dinner": "https://media.signbsl.com/videos/asl/startasl/mp4/dinner.mp4"
+,
+Fetching: sleep
+  "sleep": "https://media.signbsl.com/videos/asl/startasl/mp4/sleep.mp4"
+,
+Fetching: wake
+  "wake": "https://media.signbsl.com/videos/asl/startasl/mp4/wake-up.mp4"
+,
+Fetching: morning
+  "morning": "https://media.signbsl.com/videos/asl/startasl/mp4/morning.mp4"
+,
+Fetching: afternoon
+  "afternoon": "https://media.signbsl.com/videos/asl/startasl/mp4/goodafternoon.mp4"
+,
+Fetching: evening
+  "evening": "https://media.signbsl.com/videos/asl/signlanguagestudent/mp4/Eve%20(alternate).mp4"
+,
+Fetching: night
+  "night": "https://media.signbsl.com/videos/asl/aslsignbank/mp4/DARK-100.mp4"
+,
+Fetching: today
+  "today": "https://media.signbsl.com/videos/asl/startasl/mp4/today.mp4"
+,
+Fetching: tomorrow
+  "tomorrow": "https://media.signbsl.com/videos/asl/startasl/mp4/tomorrow.mp4"
+,
+Fetching: yesterday
+  "yesterday": "https://media.signbsl.com/videos/asl/startasl/mp4/yesterday.mp4"
+,
+Fetching: now
+  "now": "https://media.signbsl.com/videos/asl/startasl/mp4/now.mp4"
+,
+Fetching: later
+  "later": "https://media.signbsl.com/videos/asl/startasl/mp4/after.mp4"
+,
+Fetching: time
+  "time": "https://media.signbsl.com/videos/asl/startasl/mp4/time.mp4"
+,
+Fetching: day
+  "day": "https://media.signbsl.com/videos/asl/startasl/mp4/day.mp4"
+,
+Fetching: week
+  "week": "https://media.signbsl.com/videos/asl/startasl/mp4/week.mp4"
+,
+Fetching: month
+  "month": "https://media.signbsl.com/videos/asl/startasl/mp4/month.mp4"
+,
+Fetching: year
+  "year": "https://media.signbsl.com/videos/asl/startasl/mp4/year.mp4"
+,
+Fetching: monday
+  "monday": "https://media.signbsl.com/videos/asl/startasl/mp4/monday.mp4"
+,
+Fetching: tuesday
+  "tuesday": "https://media.signbsl.com/videos/asl/startasl/mp4/tuesday.mp4"
+,
+Fetching: wednesday
+  "wednesday": "https://media.signbsl.com/videos/asl/startasl/mp4/wednesday.mp4"
+,
+Fetching: thursday
+  "thursday": "https://media.signbsl.com/videos/asl/startasl/mp4/thursday.mp4"
+,
+Fetching: friday
+  "friday": "https://media.signbsl.com/videos/asl/startasl/mp4/friday.mp4"
+,
+Fetching: saturday
+  "saturday": "https://media.signbsl.com/videos/asl/startasl/mp4/saturday.mp4"
+,
+Fetching: sunday
+  "sunday": "https://media.signbsl.com/videos/asl/startasl/mp4/sunday.mp4"
+,
+Fetching: january
+  "january": "https://player.vimeo.com/external/392866387.sd.mp4"
+,
+Fetching: february
+  "february": "https://player.vimeo.com/external/392125130.sd.mp4"
+,
+Fetching: march
+  "march": "https://media.signbsl.com/videos/asl/aslsignbank/mp4/MARCH-MONTH-2001.mp4"
+,
+Fetching: april
+  "april": "https://media.signbsl.com/videos/asl/aslsignbank/mp4/APRIL-MONTH-1962.mp4"
+,
+Fetching: may
+  "may": "https://media.signbsl.com/videos/asl/aslsearch/mp4/may.mp4"
+,
+Fetching: june
+  "june": "https://player.vimeo.com/external/392866863.sd.mp4"
+,
+Fetching: july
+  "july": "https://media.signbsl.com/videos/asl/mariekatzenbachschool/mp4/July.mp4"
+,
+Fetching: august
+  "august": "https://player.vimeo.com/external/391173808.sd.mp4"
+,
+Fetching: september
+  "september": "https://player.vimeo.com/external/393637054.sd.mp4"
+,
+Fetching: october
+  "october": "https://media.signbsl.com/videos/asl/mariekatzenbachschool/mp4/October.mp4"
+,
+Fetching: november
+  "november": "https://media.signbsl.com/videos/asl/mariekatzenbachschool/mp4/November.mp4"
+,
+Fetching: december
+  "december": "https://player.vimeo.com/external/391918420.sd.mp4"
+,
+Fetching: go
+  "go": "https://media.signbsl.com/videos/asl/startasl/mp4/go.mp4"
+,
+Fetching: come
+  "come": "https://media.signbsl.com/videos/asl/signlanguagestudent/mp4/come.mp4"
+,
+Fetching: stop
+  "stop": "https://media.signbsl.com/videos/asl/signlanguagestudent/mp4/finish.mp4"
+,
+Fetching: wait
+  "wait": "https://media.signbsl.com/videos/asl/startasl/mp4/wait.mp4"
+,
+Fetching: run
+  "run": "https://media.signbsl.com/videos/asl/startasl/mp4/run.mp4"
+,
+Fetching: walk
+  "walk": "https://media.signbsl.com/videos/asl/startasl/mp4/walk.mp4"
+,
+Fetching: sit
+  "sit": "https://media.signbsl.com/videos/asl/startasl/mp4/sit.mp4"
+,
+Fetching: stand
+  "stand": "https://media.signbsl.com/videos/asl/startasl/mp4/stand.mp4"
+,
+Fetching: look
+  "look": "https://media.signbsl.com/videos/asl/aslsignbank/mp4/LOOK-500.mp4"
+,
+Fetching: see
+  "see": "https://media.signbsl.com/videos/asl/aslsignbank/mp4/SEE-538.mp4"
+,
+Fetching: watch
+  "watch": "https://media.signbsl.com/videos/asl/startasl/mp4/watch.mp4"
+,
+Fetching: hear
+  "hear": "https://media.signbsl.com/videos/asl/aslsearch/mp4/listen.mp4"
+,
+Fetching: listen
+  "listen": "https://media.signbsl.com/videos/asl/startasl/mp4/listen.mp4"
+,
+Fetching: speak
+  "speak": "https://media.signbsl.com/videos/asl/signlanguagestudent/mp4/speak.mp4"
+,
+Fetching: talk
+  "talk": "https://media.signbsl.com/videos/asl/signlanguagestudent/mp4/speak.mp4"
+,
+Fetching: tell
+  "tell": "https://media.signbsl.com/videos/asl/aslsignbank/mp4/SAY-536.mp4"
+,
+Fetching: say
+  "say": "https://media.signbsl.com/videos/asl/aslsignbank/mp4/SAY-536.mp4"
+,
+Fetching: ask
+  "ask": "https://media.signbsl.com/videos/asl/startasl/mp4/need.mp4"
+,
+Fetching: answer
+  "answer": "https://media.signbsl.com/videos/asl/aslsignbank/mp4/ANSWER-2228.mp4"
+,
+Fetching: know
+  "know": "https://media.signbsl.com/videos/asl/startasl/mp4/know.mp4"
+,
+Fetching: understand
+  "understand": "https://media.signbsl.com/videos/asl/signlanguagestudent/mp4/understand.mp4"
+,
+Fetching: learn
+  "learn": "https://media.signbsl.com/videos/asl/startasl/mp4/learn.mp4"
+,
+Fetching: teach
+  "teach": "https://media.signbsl.com/videos/asl/signlanguagestudent/mp4/instruct.mp4"
+,
+Fetching: read
+  "read": "https://media.signbsl.com/videos/asl/startasl/mp4/read.mp4"
+,
+Fetching: write
+  "write": "https://media.signbsl.com/videos/asl/startasl/mp4/write.mp4"
+,
+Fetching: book
+  "book": "https://media.signbsl.com/videos/asl/startasl/mp4/book.mp4"
+,
+Fetching: computer
+  "computer": "https://media.signbsl.com/videos/asl/startasl/mp4/computer-2.mp4"
+,
+Fetching: phone
+  "phone": "https://media.signbsl.com/videos/asl/startasl/mp4/telephone.mp4"
+,
+Fetching: car
+  "car": "https://media.signbsl.com/videos/asl/startasl/mp4/car.mp4"
+,
+Fetching: bus
+  "bus": "https://media.signbsl.com/videos/asl/startasl/mp4/bus.mp4"
+,
+Fetching: train
+  "train": "https://media.signbsl.com/videos/asl/startasl/mp4/train.mp4"
+,
+Fetching: airplane
+  "airplane": "https://media.signbsl.com/videos/asl/startasl/mp4/airplane.mp4"
+,
+Fetching: dog
+  "dog": "https://media.signbsl.com/videos/asl/startasl/mp4/dog.mp4"
+,
+Fetching: cat
+  "cat": "https://media.signbsl.com/videos/asl/startasl/mp4/cat.mp4"
+,
+Fetching: bird
+  "bird": "https://media.signbsl.com/videos/asl/startasl/mp4/bird.mp4"
+,
+Fetching: fish
+  "fish": "https://media.signbsl.com/videos/asl/startasl/mp4/fish.mp4"
+,
+Fetching: color
+  "color": "https://media.signbsl.com/videos/asl/startasl/mp4/color.mp4"
+,
+Fetching: red
+  "red": "https://media.signbsl.com/videos/asl/startasl/mp4/red.mp4"
+,
+Fetching: blue
+  "blue": "https://media.signbsl.com/videos/asl/startasl/mp4/blue.mp4"
+,
+Fetching: green
+  "green": "https://media.signbsl.com/videos/asl/startasl/mp4/green.mp4"
+,
+Fetching: yellow
+  "yellow": "https://media.signbsl.com/videos/asl/startasl/mp4/yellow.mp4"
+,
+Fetching: black
+  "black": "https://media.signbsl.com/videos/asl/startasl/mp4/black.mp4"
+,
+Fetching: white
+  "white": "https://media.signbsl.com/videos/asl/startasl/mp4/white.mp4"
+,
+Fetching: big
+  "big": "https://media.signbsl.com/videos/asl/startasl/mp4/large.mp4"
+,
+Fetching: small
+  "small": "https://media.signbsl.com/videos/asl/startasl/mp4/small.mp4"
+,
+Fetching: hot
+  "hot": "https://media.signbsl.com/videos/asl/startasl/mp4/hot.mp4"
+,
+Fetching: cold
+  "cold": "https://media.signbsl.com/videos/asl/startasl/mp4/cold.mp4"
+,
+Fetching: new
+  "new": "https://media.signbsl.com/videos/asl/aslsearch/mp4/new.mp4"
+,
+Fetching: old
+  "old": "https://media.signbsl.com/videos/asl/startasl/mp4/old.mp4"
+,
+Fetching: young
+  "young": "https://media.signbsl.com/videos/asl/startasl/mp4/young.mp4"
+,
+Fetching: beautiful
+  "beautiful": "https://media.signbsl.com/videos/asl/startasl/mp4/beautiful.mp4"
+,
+Fetching: money
+  "money": "https://media.signbsl.com/videos/asl/tsdvideo/mp4/181.mp4"
+,
+Fetching: buy
+  "buy": "https://media.signbsl.com/videos/asl/startasl/mp4/buy.mp4"
+,
+Fetching: sell
+  "sell": "https://media.signbsl.com/videos/asl/aslsignbank/mp4/SELL-741.mp4"
+,
+Fetching: store
+  "store": "https://media.signbsl.com/videos/asl/startasl/mp4/store.mp4"
+,
+Fetching: doctor
+  "doctor": "https://media.signbsl.com/videos/asl/startasl/mp4/doctor.mp4"
+,
+Fetching: hospital
+  "hospital": "https://media.signbsl.com/videos/asl/startasl/mp4/hospital.mp4"
+,
+Fetching: sick
+  "sick": "https://media.signbsl.com/videos/asl/startasl/mp4/throw-up.mp4"
+,
+Fetching: medicine
+  "medicine": "https://media.signbsl.com/videos/asl/startasl/mp4/medicine.mp4"
+,
+Fetching: pain
+  "pain": "https://media.signbsl.com/videos/asl/youtube/mp4/FbawYVQp2fM.mp4"
+,
+Fetching: one
+  "one": "https://media.signbsl.com/videos/asl/aslsignbank/mp4/ONE-519.mp4"
+,
+Fetching: two
+  "two": "https://media.signbsl.com/videos/asl/aslsignbank/mp4/TWO-1336.mp4"
+,
+Fetching: three
+  "three": "https://media.signbsl.com/videos/asl/aslsignbank/mp4/THREE-1216.mp4"
+,
+Fetching: four
+  "four": "https://media.signbsl.com/videos/asl/aslsignbank/mp4/FOUR-461.mp4"
+,
+Fetching: five
+  "five": "https://media.signbsl.com/videos/asl/aslsignbank/mp4/FIVE-459.mp4"
+,
+Fetching: six
+  "six": "https://media.signbsl.com/videos/asl/aslsignbank/mp4/SIX-603.mp4"
+,
+Fetching: seven
+  "seven": "https://media.signbsl.com/videos/asl/aslsignbank/mp4/SEVEN-641.mp4"
+,
+Fetching: eight
+  "eight": "https://media.signbsl.com/videos/asl/aslsignbank/mp4/EIGHT-635.mp4"
+,
+Fetching: nine
+  "nine": "https://media.signbsl.com/videos/asl/aslsignbank/mp4/NINE-1570.mp4"
+,
+Fetching: ten
+  "ten": "https://media.signbsl.com/videos/asl/signlanguagestudent/mp4/ten.mp4"
+}

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    body {
+      width: 400px;
+      padding: 15px;
+      font-family: Arial, sans-serif;
+    }
+    .form-group {
+      margin-bottom: 15px;
+    }
+    label {
+      display: block;
+      margin-bottom: 5px;
+      font-weight: bold;
+    }
+    select, input {
+      width: 100%;
+      padding: 8px;
+      box-sizing: border-box;
+    }
+    button {
+      background-color: #4CAF50;
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      cursor: pointer;
+      width: 100%;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+    button:disabled {
+      background-color: #cccccc;
+      cursor: not-allowed;
+    }
+    #previewList {
+      max-height: 200px;
+      overflow-y: auto;
+      border: 1px solid #ccc;
+      padding: 10px;
+      margin-top: 10px;
+    }
+    .token-item {
+      margin-bottom: 5px;
+    }
+    .token-url {
+      font-size: 0.8em;
+      color: #666;
+      word-break: break-all;
+    }
+    #downloadLink {
+      display: none;
+      margin-top: 15px;
+      padding: 10px;
+      background-color: #008CBA;
+      color: white;
+      text-align: center;
+      text-decoration: none;
+    }
+    #downloadLink:hover {
+      background-color: #007B9A;
+    }
+    #videoPlayer {
+      display: none;
+      width: 100%;
+      margin-top: 15px;
+    }
+    #status {
+      margin-top: 10px;
+      padding: 10px;
+      border-radius: 4px;
+    }
+    .error {
+      background-color: #ffebee;
+      color: #c62828;
+    }
+    .success {
+      background-color: #e8f5e9;
+      color: #2e7d32;
+    }
+  </style>
+</head>
+<body>
+  <h2>Sign Video Builder</h2>
+  
+  <div class="form-group">
+    <label for="selectedText">Selected Text:</label>
+    <textarea id="selectedText" rows="3" placeholder="Select text on a webpage and right-click to generate a sign video"></textarea>
+  </div>
+  
+  <div class="form-group">
+    <label for="tokenizationMode">Tokenization Mode:</label>
+    <select id="tokenizationMode">
+      <option value="word">Word</option>
+      <option value="character">Character</option>
+    </select>
+  </div>
+  
+  <div class="form-group">
+    <label>Token Preview:</label>
+    <div id="previewList"></div>
+  </div>
+  
+  <div class="form-group">
+    <label for="backendUrl">Backend URL:</label>
+    <input type="text" id="backendUrl" value="http://localhost:8080">
+  </div>
+  
+  <div class="form-group">
+    <button id="startCaptionsBtn">Start Captions</button>
+  </div>
+  <div class="form-group">
+    <button id="stopCaptionsBtn">Stop Captions</button>
+  </div>
+  
+  <button id="generateButton">Generate Video</button>
+  
+  <video id="videoPlayer" controls></video>
+  
+  <a id="downloadLink" download="sign_video.mp4">Download Video</a>
+  
+  <div id="status"></div>
+  
+  <script src="popup.js"></script>
+</body>
+</html>

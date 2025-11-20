@@ -1,0 +1,53 @@
+{
+  "manifest_version": 3,
+  "name": "Sign Video Builder",
+  "version": "1.0",
+  "description": "Generate sign language videos from selected text",
+  "permissions": [
+    "contextMenus",
+    "activeTab",
+    "storage",
+    "scripting",
+    "tabs",
+    "tabCapture",
+    "offscreen"
+  ],
+  "host_permissions": [
+    "http://localhost:8080/*",
+    "https://*/*",
+    "http://*/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_title": "Sign Video Builder"
+  },
+  "options_page": "options/options.html",
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>",
+        "https://www.youtube.com/*"
+      ],
+      "js": [
+        "content/captions_inject.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "128": "icon.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "data/wordmap.json"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ]
+}
